@@ -3,6 +3,10 @@
 
 ---
 
+<p align="center">
+  <img src="./imagenes/UTNG_.png" height="150">
+</p>
+
 |  |  |
 |-------|------|
 | **Institución** | Universidad Tecnologica del Norte de Guanajuato  |
